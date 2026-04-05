@@ -9,6 +9,15 @@ TVB翡翠台,https://smt.pixman.us.ci/proxy/7cc128b1aee2e798.m3u8
 鳳凰衛視中文台,https://smt.pixman.us.ci/proxy/cab5a1600acc3282.m3u8
 鳳凰衛視資訊台,https://smt.pixman.us.ci/proxy/a41a47bb662e9820.m3u8
 鳳凰衛視香港台,https://smt.pixman.us.ci/proxy/1136d566b92cf3b7.m3u8
+TVBJ1,https://6.cdn.loc.cc/163189.php?id=j1
+华丽翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=huali
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+HOY77-1,https://cdn6.163189.xyz/163189/hoy
+HOY77-2,https://cdn.163189.xyz/163189/hoy
+HOY78,http://cdn.163189.xyz/163189/hoy78
+VIUTV,https://php.jdshipin.com:2096/TVOD/iptv.php?id=viutv2
+NOW新聞台,https://cdn.163189.xyz/163189/now
+
 
 #genre# 台湾地区
 东森电影台,https://smt.pixman.us.ci/proxy/ff77d549ea9b89db.m3u8
@@ -21,3 +30,4 @@ HBOFAMILY,http://185.44.67.64:53874/proxy/0a0caa8e311af1bf.m3u8
 纬来电影台,https://smt.pixman.us.ci/proxy/fcd99f4f15ad3077.m3u8
 AXN,https://smt.pixman.us.ci/proxy/24add3f950a39908.m3u8
 POPC,https://smt.pixman.us.ci/proxy/66d3b7594776ed7e.m3u8
+海峡卫视,http://cdn3.163189.xyz/163189/hxws
