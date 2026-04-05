@@ -2388,7 +2388,7 @@
     {
       "epgid": "HOYTV资讯",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV资讯.png",
-      "name": "HOYTV资讯,"
+      "name": "HOYTV资讯,HOY资讯台,"
     },
     {
       "epgid": "HOY国际财经",
@@ -4953,7 +4953,7 @@
     {
       "epgid": "TVN",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png",
-      "name": "TVN,144TVN,159TVN"
+      "name": "TVN,144TVN,159TVN,"
     },
     {
       "epgid": "TVONEHD",
