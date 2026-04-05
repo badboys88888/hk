@@ -13,6 +13,7 @@ TVB翡翠台,https://smt.pixman.us.ci/proxy/7cc128b1aee2e798.m3u8
 #genre# 台湾地区
 东森电影台,https://smt.pixman.us.ci/proxy/ff77d549ea9b89db.m3u8
 东森洋片台,https://smt.pixman.us.ci/proxy/f9cf8471c7491eb9.m3u8
+HBOFAMILY,http://185.44.67.64:53874/proxy/0a0caa8e311af1bf.m3u8
 龙祥时代,https://smt.pixman.us.ci/proxy/19edb2efac6d0b15.m3u8
 美亞電影台,https://smt.pixman.us.ci/proxy/ecf481c18cc23fd4.m3u8
 年代新闻台,https://smt.pixman.us.ci/proxy/bc7685dc95fd47bd.m3u8
