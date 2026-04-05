@@ -11718,12 +11718,12 @@
     {
       "epgid": "澳视MACAU",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视MACAU.png",
-      "name": "澳视MACAU,"
+      "name": "澳视MACAU,澳视卫星,"
     },
     {
       "epgid": "澳视体育",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视体育.png",
-      "name": "澳视体育,"
+      "name": "澳视体育,澳门体育,"
     },
     {
       "epgid": "澳视澳门",
@@ -11733,7 +11733,7 @@
     {
       "epgid": "澳视综艺",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视综艺.png",
-      "name": "澳视综艺,"
+      "name": "澳视综艺,澳门综艺"
     },
     {
       "epgid": "澳视葡文",
