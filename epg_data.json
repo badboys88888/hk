@@ -2375,6 +2375,11 @@
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOT.png",
       "name": "HOT,"
     },
+        {
+      "epgid": "HOY76",
+      "logo": "https://upload.wikimedia.org/wikipedia/zh/2/2b/HoYIBC_logo.png",
+      "name": "HOY76,"
+    },
     {
       "epgid": "HOY1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOY1.png",
@@ -2388,7 +2393,7 @@
     {
       "epgid": "HOYTV资讯",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV资讯.png",
-      "name": "HOYTV资讯,HOY资讯台,"
+      "name": "HOYTV资讯,HOY资讯台,HOY78"
     },
     {
       "epgid": "HOY国际财经",
