@@ -23,7 +23,7 @@ https://smt.pixman.us.ci/proxy/1136d566b92cf3b7.m3u8
 https://smt.pixman.us.ci/proxy/ff77d549ea9b89db.m3u8
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png" group-title="台湾地区",东森洋片台
 https://smt.pixman.us.ci/proxy/f9cf8471c7491eb9.m3u8
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOFAMILY.png" group-title="台湾地区",HBOFAMILY
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://raw.githubusercontent.com/badboys88888/scmobilemulticast/main/icons/HBOFAMILY.webp" group-title="台湾地区",HBOFAMILY
 http://185.44.67.64:53874/proxy/0a0caa8e311af1bf.m3u8
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="台湾地区",龙祥时代
 https://smt.pixman.us.ci/proxy/19edb2efac6d0b15.m3u8
