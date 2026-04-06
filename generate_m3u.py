@@ -8,7 +8,7 @@ EPG_FILE = "epg_data.json"
 CHANNEL_FILE = "channels.txt"
 OUTPUT_FILE = "live.m3u"
 
-EPG_URL = "https://github.com/badboys88888/epg/raw/main/epg.xml.gz"
+EPG_URL = "https://github.com/badboys88888/epg1/raw/main/epg.xml.gz"
 
 # ===================== 读取EPG ===================== #
 def load_epg():
