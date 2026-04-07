@@ -49,7 +49,7 @@ https://smt.pixman.us.ci/proxy/fcd99f4f15ad3077.m3u8
 http://46.38.157.60:53874/proxy/e817c60fff235471.m3u8
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龍華電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="台湾地区",龍華電影台
 http://46.38.157.60:53874/proxy/d9255b48be481af4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="龍華洋片台" tvg-logo="" group-title="台湾地区",龍華洋片台
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="台湾地区",龙华洋片
 http://46.38.157.60:53874/proxy/06d0b0bbd784014c.m3u8
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龍華偶像台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="台湾地区",龍華偶像台
 http://46.38.157.60:53874/proxy/2fbdd9c9dd4627f0.m3u8
